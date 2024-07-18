@@ -5,6 +5,6 @@ Volunteer 1
 
 Volunteer 2
 <img width="1278" alt="111" src="https://github.com/user-attachments/assets/e6408f10-d5b1-4d98-bc37-b9c6c714f3fc">
-You can download the videos here ! (<25M) Thanks.
+You can download the videos here ! (within 25M each) Thanks.
 
 Our code is to be released publicly soon！
