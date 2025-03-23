@@ -31,6 +31,11 @@ This project was highly recognized in two prestigious robotics competitions:
 
 ## **🎥 Video Demonstration**  
 You can download the demo videos here! *(within 25MB each)*.  
+Volunteer 1
+![image](https://github.com/HongminMu/ZhuMang/assets/57067148/7820972f-91ab-4a45-aa9f-684060dc663b)
+
+Volunteer 2
+<img width="1278" alt="111" src="https://github.com/user-attachments/assets/e6408f10-d5b1-4d98-bc37-b9c6c714f3fc">
 
 ## **🚀 Code Release**  
 Our code will be made publicly available soon! Stay tuned for updates. 🌍💡  
