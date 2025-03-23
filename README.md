@@ -23,11 +23,13 @@ This project was highly recognized in two prestigious robotics competitions:
   - **Ranked Top 3 out of 19 teams**  
   - **Project Name**: *OpenAEye: an Assistive Glasses for the Visually Impaired*  
 
+![333](https://github.com/user-attachments/assets/1ca68f01-71f6-4268-87a5-5b560f90ba76)
+
 - 🥈 **National Runner-up** - **China Graduate Robotics Innovation Design Contest** (September 2023)  
   - **Ranked 2nd out of 1,177 teams**  
   - **Project Name**: *Wearable Assistive Device for the Visually Impaired to Navigate in Unfamiliar Indoor Environments*  
 
----
+![image](https://github.com/user-attachments/assets/05ec16c9-2c00-4bf0-80ff-181da953cfa5)
 
 ## **🎥 Video Demonstration**  
 You can download the demo videos here! *(within 25MB each)*.  
