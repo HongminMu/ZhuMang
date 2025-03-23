@@ -11,8 +11,6 @@ This project, formally titled **"Wearable Visuomotor Navigation and Mobility Ass
 ✅ **Binocular Stereo Vision** – Enhances depth estimation to assist in navigation toward key landmarks.  
 ✅ **AI-Driven Obstacle Detection** – Uses deep learning for real-time scene awareness.  
 ✅ **Multi-Device Wearable Interaction** – Smart glasses process visual data, while wristbands provide haptic feedback.  
-##✅ **Semantic Elevation Map** – Incorporates a semantic elevation map to help users perceive stairs and other obstacles in real-time.  
-##✅ **Haptic Feedback for Stair Navigation** – The wristbands provide **vibrational feedback** to guide visually impaired users safely when navigating stairs.
 
 ---
 
