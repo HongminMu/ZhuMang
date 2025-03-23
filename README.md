@@ -18,7 +18,7 @@ Overview of our device and navigation system :
 ## **🏆 Awards & Achievements**  
 This project was highly recognized in two prestigious robotics competitions:
 
-- 🥇 **First Prize** - **World Robot Contest - Tri-Co Robots Challenge ** (August 2024)  
+- 🥇 **First Prize** - **World Robot Contest - Tri-Co Robots Challenge** (August 2024)  
   - **Ranked Top 3 out of 19 teams**  
   - **Project Name**: *OpenAEye: an Assistive Glasses for the Visually Impaired*  
 
