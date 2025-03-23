@@ -1,5 +1,5 @@
-# **Wearable Visuomotor Navigation and Mobility Assistance Device** 👓  
-### **For the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes**  
+# **Wearable Visuomotor Navigation and Mobility Assistance Device For ** 👓  
+### **the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes**  
 
 ![Device Image](#)  <!-- Insert a relevant image of your wearable assistive device here -->
 
