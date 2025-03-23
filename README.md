@@ -6,7 +6,6 @@ This project, formally titled **"Wearable Visuomotor Navigation and Mobility Ass
 Overview of our device and navigation system :
 ![12334](https://github.com/user-attachments/assets/a1a99db3-299d-4ad8-83e5-a10197fc02fd)
 
-
 🚀 **Key Features:**  
 ✅ **SLAM-free navigation** – Uses **Topological Semantic Mapping (TSM)** instead of conventional dense mapping.  
 ✅ **Text-based Localization** – Matches detected text from environmental signage with TSM nodes for precise positioning.  
@@ -19,7 +18,7 @@ Overview of our device and navigation system :
 ## **🏆 Awards & Achievements**  
 This project was highly recognized in two prestigious robotics competitions:
 
-- 🥇 **First Prize** - **World Robot Contest - Tri-Co Robots Challenge** (August 2024)  
+- 🥇 **First Prize** - **World Robot Contest - Tri-Co Robots Challenge ** (August 2024)  
   - **Ranked Top 3 out of 19 teams**  
   - **Project Name**: *OpenAEye: an Assistive Glasses for the Visually Impaired*  
 
