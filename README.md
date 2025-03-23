@@ -1,4 +1,4 @@
-# **Wearable Visuomotor Navigation and Mobility Assistance Device For the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes** 👓  
+# **Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes** 👓 🔍 💡
 
 ![Device Image](#)  <!-- Insert a relevant image of your wearable assistive device here -->
 
@@ -8,7 +8,7 @@ This project, formally titled **"Wearable Visuomotor Navigation and Mobility Ass
 🚀 **Key Features:**  
 ✅ **SLAM-free navigation** – Uses **Topological Semantic Mapping (TSM)** instead of conventional dense mapping.  
 ✅ **Text-based Localization** – Matches detected text from environmental signage with TSM nodes for precise positioning.  
-✅ **Binocular Stereo Vision** – Enhances depth estimation to assist in navigation toward key landmarks.  
+✅ **Binocular Stereo Vision** – Enhances depth estimation to assist in navigation toward key landmarks.  f
 ✅ **AI-Driven Obstacle Detection** – Uses deep learning for real-time scene awareness.  
 ✅ **Multi-Device Wearable Interaction** – Smart glasses process visual data, while wristbands provide haptic feedback.  
 
