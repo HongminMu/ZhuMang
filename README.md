@@ -8,10 +8,10 @@ This project was highly recognized in two prestigious robotics competitions:
 
 - 🥇 **First Prize** - **World Robot Contest - Tri-Co Robots Challenge** (August 2024)  
   - **Ranked Top 3 out of 19 teams**  
-  - **Competition Project Name**: *OpenAEye: an Assistive Glasses for the Visually Impaired*  
+  - **Project Name**: *OpenAEye: an Assistive Glasses for the Visually Impaired*  
 - 🥈 **National Runner-up** - **China Graduate Robotics Innovation Design Contest** (September 2023)  
   - **Ranked 2nd out of 1,177 teams**  
-  - **Competition Project Name**: *Wearable Assistive Device for the Visually Impaired to Navigate in Unfamiliar Indoor Environments*  
+  - **Project Name**: *Wearable Assistive Device for the Visually Impaired to Navigate in Unfamiliar Indoor Environments*  
 
 ## **🌟 Project Overview**  
 This project, formally titled **"Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes"**, enhances **mobility and independence** for visually impaired individuals by enabling **navigation in unfamiliar indoor environments without relying on dense pre-built maps**.  
