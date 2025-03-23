@@ -1,6 +1,8 @@
-# **Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes** 👓 
+<img width="911" alt="A20240925" src="https://github.com/user-attachments/assets/c1397552-deb1-415a-a15f-62e2ffb39bb9" /># **Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes** 👓 
 
-![Device Image](#)  <!-- Insert a relevant image of your wearable assistive device here -->
+<img width="911" alt="A20240925" src="https://github.com/user-attachments/assets/29a660ff-b9db-43c5-b1ed-f659231c7c18" />
+ <!-- Insert a relevant image of your wearable assistive device here -->
+<img width="362" alt="overall-3-14" src="https://github.com/user-attachments/assets/6d50eea8-8c48-4d67-8ae6-06e797e01793" />
 
 ## **🌟 Project Overview**  
 This project, formally titled **"Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes"**, enhances **mobility and independence** for visually impaired individuals by enabling **navigation in unfamiliar indoor environments without relying on dense pre-built maps**.  
@@ -8,7 +10,7 @@ This project, formally titled **"Wearable Visuomotor Navigation and Mobility Ass
 🚀 **Key Features:**  
 ✅ **SLAM-free navigation** – Uses **Topological Semantic Mapping (TSM)** instead of conventional dense mapping.  
 ✅ **Text-based Localization** – Matches detected text from environmental signage with TSM nodes for precise positioning.  
-✅ **Binocular Stereo Vision** – Enhances depth estimation to assist in navigation toward key landmarks.  f
+✅ **Binocular Stereo Vision** – Enhances depth estimation to assist in navigation toward key landmarks.  
 ✅ **AI-Driven Obstacle Detection** – Uses deep learning for real-time scene awareness.  
 ✅ **Multi-Device Wearable Interaction** – Smart glasses process visual data, while wristbands provide haptic feedback.  
 
@@ -34,6 +36,9 @@ Volunteer 1
 
 Volunteer 2
 <img width="1278" alt="111" src="https://github.com/user-attachments/assets/e6408f10-d5b1-4d98-bc37-b9c6c714f3fc">
+
+[Volunteer 1](https://github.com/HongminMu/ZhuMang/blob/main/volunteer1.mp4)  
+[Volunteer 2](https://github.com/HongminMu/ZhuMang/blob/main/volunteer2.mp4)
 
 ## **🚀 Code Release**  
 Our code will be made publicly available soon! Stay tuned for updates. 🌍💡  
