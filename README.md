@@ -35,7 +35,8 @@ Volunteer 1
 ![image](https://github.com/HongminMu/ZhuMang/assets/57067148/7820972f-91ab-4a45-aa9f-684060dc663b)
 
 Volunteer 2
-<img width="1278" alt="111" src="https://github.com/user-attachments/assets/e6408f10-d5b1-4d98-bc37-b9c6c714f3fc">
+![image](https://github.com/user-attachments/assets/9a6beec2-f583-49e0-ba18-19e6ffacf9b7)
+
 
 [Volunteer 1](https://github.com/HongminMu/ZhuMang/blob/main/volunteer1.mp4)  
 [Volunteer 2](https://github.com/HongminMu/ZhuMang/blob/main/volunteer2.mp4)
