@@ -34,9 +34,9 @@ At **World Robot Contest**, our project was presented under the name **"OpenAEye
 - **Stereo vision depth sensing**, improving obstacle detection and environmental awareness.  
 
 📸 **Competition Showcase:**  
-- **Volunteer Testing**  
+- **Volunteer Testing 1**  
   ![image](https://github.com/HongminMu/ZhuMang/assets/57067148/7820972f-91ab-4a45-aa9f-684060dc663b)  
-- **Device Prototype**  
+- **Volunteer Testing 2**  
   <img width="1278" alt="111" src="https://github.com/user-attachments/assets/e6408f10-d5b1-4d98-bc37-b9c6c714f3fc">  
 - **Live Demonstration**  
   *(Video coming soon! 🎥)*  
@@ -67,15 +67,15 @@ Our code will be made publicly available soon! Stay tuned for updates. 🌍💡
 ---
 
 ## **📚 Related Work**  
-This work builds upon our previous research on mobility assistance systems for visually impaired users. Specifically, we extend our prior work on **dynamic obstacle avoidance** using **instance segmentation** to improve the **navigation experience in indoor environments**.  
+This work builds upon our previous research on obstacle avoidance systems for visually impaired users. Specifically, we extend our prior work on **dynamic obstacle avoidance** using **instance segmentation** to improve the **navigation experience in indoor environments**.  
 
 You can find our previous work referenced below:  
 
 > **Mu, Hongmin and others**, *Dynamic Obstacle Avoidance System Based on Rapid Instance Segmentation Network*, **IEEE Trans. on Intelligent Transportation Systems**, **2024**, **Vol. 25**, **No. 5**, **Pages 4578-4592**, [DOI: 10.1109/TITS.2023.3323210](https://doi.org/10.1109/TITS.2023.3323210).  
 
 ```bibtex
-@ARTICLE{Mu2024,
-  author={Mu, Hongmin and others},
+@ARTICLE{Mu2024Dynamic,
+  author={Mu, Hongmin and Zhang, Gang and Ma, Zhe and Zhou, Mengchu and Cao, Zhengcai},
   journal={IEEE Trans. on Intelligent Transportation Systems}, 
   title={Dynamic Obstacle Avoidance System Based on Rapid Instance Segmentation Network}, 
   year={2024},
