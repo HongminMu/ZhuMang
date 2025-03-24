@@ -45,8 +45,9 @@ Volunteer 2
 ## **🚀 Code Release**  
 ✅Code for Obstacle Avoidance.
 
-This code is based on [YOLACT++](https://github.com/dbolya/yolact) for segmenting passable areas, without any modifications to the original YOLACT++ network. Using our designed algorithm, it converts the segmentation results into vibration signals, with stronger vibrations indicating closer obstacles, to assist visually impaired users in obstacle avoidance.
+This code is based on [YOLACT++](https://github.com/dbolya/yolact) for segmenting passable areas, without any modifications to the original YOLACT++ network. Using our designed algorithm, it converts the segmentation results into vibration signals, with stronger vibrations indicating closer obstacles, to assist visually impaired users in obstacle avoidance. 
 
+### Quick Start
 ### Step 1: Install YOLACT++
 Clone the original YOLACT++ repository and install dependencies:
 
