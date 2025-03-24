@@ -43,7 +43,92 @@ Volunteer 2
 ![image](https://github.com/user-attachments/assets/9a6beec2-f583-49e0-ba18-19e6ffacf9b7)
 
 ## **🚀 Code Release**  
-Our code will be made publicly available soon! Stay tuned for updates. 🌍💡  
+We currrently provide our code for abstacle avoidance here.
+# YOLOACT++ with Custom Modifications
+
+This repository provides a modified version of [YOLACT++](https://github.com/dbolya/yolact) for object detection and obstacle avoidance with haptic feedback.
+
+## Installation
+
+### Step 1: Download and Install YOLACT++
+Clone the original YOLACT++ repository and install dependencies:
+
+```bash
+# Clone the repository
+git clone https://github.com/dbolya/yolact.git
+cd yolact
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Compile and install DCNv2
+cd external/DCNv2
+python setup.py build develop
+cd ../..
+```
+
+### Step 2: Integrate Custom Code
+Copy `zhendong.py` to the YOLACT++ root directory and replace the `data/config.py` file with our custom configuration.
+
+```bash
+# Place `zhendong.py` in the root directory
+cp path_to_zhendong.py yolact/
+
+# Replace configuration file
+cp path_to_custom_config.py yolact/data/config.py
+```
+
+### Step 3: Download Pretrained Weights
+Download our custom-trained weights from [this link](YOUR_WEIGHTS_LINK_HERE) and place them in the `weights` folder.
+
+```bash
+# Move the weights to the correct directory
+mkdir -p weights
+cp path_to_weights.pth weights/
+```
+
+## Running the Model
+
+### Standard Object Detection
+Run the modified `zhendong.py` script with the following command:
+
+```bash
+python zhendong.py \
+    --trained_model=weights/yolact_coco_custom_91_16000.pth \
+    --config=yolact_coco_custom_config \
+    --score_threshold=0.35 \
+    --top_k=6 \
+    --video=1 \
+    --display
+```
+
+### Obstacle Avoidance with Haptic Feedback
+To enable obstacle avoidance with vibration modules, purchase two vibration modules and configure the serial communication according to the comments in `zhendong.py`.
+
+### Visualization without Vibration Modules
+If you want to visualize the obstacle avoidance process without using vibration modules, use `zhendong_visualization.py`:
+
+```bash
+# Place `zhendong_visualization.py` in the root directory
+cp path_to_zhendong_visualization.py yolact/
+
+# Run with the same parameters
+python zhendong_visualization.py \
+    --trained_model=weights/yolact_coco_custom_91_16000.pth \
+    --config=yolact_coco_custom_config \
+    --score_threshold=0.35 \
+    --top_k=6 \
+    --video=1 \
+    --display
+```
+
+## Notes
+- Make sure to correctly set up the serial communication if using the vibration modules.
+- The visualization script allows you to see how the obstacle avoidance algorithm works without requiring hardware.
+
+For more details, please check the code comments or contact us for further support.
+
+Our full code will be made publicly available soon! Stay tuned for updates. 🌍💡  
 
 ## **📩 Contact**  
 For inquiries, feel free to reach out via email at **hongmin_@163.com**, specifying the purpose of your request.  
