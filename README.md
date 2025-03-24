@@ -63,7 +63,7 @@ cd external/DCNv2
 python setup.py build develop
 ```
 
-### Step 2: Integrate Demo Code 
+### Step 2: Integrate zhendong.py
 Copy `zhendong.py` to the YOLACT++ root directory.
 
 ```bash
@@ -84,8 +84,8 @@ cp path_to_weights.pth weights/
 cp path_to_custom_config.py yolact/data/config.py
 ```
 
-### Step 4: Running demo
-Run the modified `zhendong.py` script with the following command:
+### Step 4: Run zhendong.py
+Run the `zhendong.py` script with the following command:
 
 ```bash
 python zhendong.py \
