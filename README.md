@@ -43,7 +43,7 @@ Volunteer 2
 ![image](https://github.com/user-attachments/assets/9a6beec2-f583-49e0-ba18-19e6ffacf9b7)
 
 ## **🚀 Code Release**  
-✅Code for abstacle avoidance.
+✅Code for Obstacle Avoidance.
 
 This repository provides a modified version of [YOLACT++](https://github.com/dbolya/yolact) for instance segmentation of passable areas.
 
