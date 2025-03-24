@@ -43,14 +43,11 @@ Volunteer 2
 ![image](https://github.com/user-attachments/assets/9a6beec2-f583-49e0-ba18-19e6ffacf9b7)
 
 ## **🚀 Code Release**  
-We currrently provide our code for abstacle avoidance here.
-# YOLOACT++ with Custom Modifications
+✅Code for abstacle avoidance.
 
-This repository provides a modified version of [YOLACT++](https://github.com/dbolya/yolact) for object detection and obstacle avoidance with haptic feedback.
+This repository provides a modified version of [YOLACT++](https://github.com/dbolya/yolact) for instance segmentation of passable areas.
 
-## Installation
-
-### Step 1: Download and Install YOLACT++
+### Step 1: Install YOLACT++
 Clone the original YOLACT++ repository and install dependencies:
 
 ```bash
@@ -64,7 +61,6 @@ pip install -r requirements.txt
 # Compile and install DCNv2
 cd external/DCNv2
 python setup.py build develop
-cd ../..
 ```
 
 ### Step 2: Integrate Custom Code
@@ -87,9 +83,7 @@ mkdir -p weights
 cp path_to_weights.pth weights/
 ```
 
-## Running the Model
-
-### Standard Object Detection
+### Step 4: Running demo
 Run the modified `zhendong.py` script with the following command:
 
 ```bash
@@ -101,9 +95,6 @@ python zhendong.py \
     --video=1 \
     --display
 ```
-
-### Obstacle Avoidance with Haptic Feedback
-To enable obstacle avoidance with vibration modules, purchase two vibration modules and configure the serial communication according to the comments in `zhendong.py`.
 
 ### Visualization without Vibration Modules
 If you want to visualize the obstacle avoidance process without using vibration modules, use `zhendong_visualization.py`:
@@ -123,6 +114,7 @@ python zhendong_visualization.py \
 ```
 
 ## Notes
+- To enable obstacle avoidance with vibration modules, purchase two vibration modules and configure the serial communication according to the comments in `zhendong.py`.
 - Make sure to correctly set up the serial communication if using the vibration modules.
 - The visualization script allows you to see how the obstacle avoidance algorithm works without requiring hardware.
 
