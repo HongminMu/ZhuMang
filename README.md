@@ -72,7 +72,7 @@ cp path_to_zhendong.py yolact/
 ```
 
 ### Step 3: Download Pretrained Weights
-Download our custom-trained weights from [this link](YOUR_WEIGHTS_LINK_HERE) and place them in the `weights` folder.
+Download our custom-trained weights from [this link](https://drive.google.com/file/d/10LK7Iq2vLNiBRs2EWcySygQpdUQFpC_7/view?usp=drive_link) and place them in the `weights` folder.
 Replace the `data/config.py` file with our custom configuration.
 
 ```bash
