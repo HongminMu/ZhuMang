@@ -63,24 +63,25 @@ cd external/DCNv2
 python setup.py build develop
 ```
 
-### Step 2: Integrate Custom Code
-Copy `zhendong.py` to the YOLACT++ root directory and replace the `data/config.py` file with our custom configuration.
+### Step 2: Integrate Demo Code 
+Copy `zhendong.py` to the YOLACT++ root directory.
 
 ```bash
 # Place `zhendong.py` in the root directory
 cp path_to_zhendong.py yolact/
-
-# Replace configuration file
-cp path_to_custom_config.py yolact/data/config.py
 ```
 
 ### Step 3: Download Pretrained Weights
 Download our custom-trained weights from [this link](YOUR_WEIGHTS_LINK_HERE) and place them in the `weights` folder.
+Replace the `data/config.py` file with our custom configuration.
 
 ```bash
 # Move the weights to the correct directory
 mkdir -p weights
 cp path_to_weights.pth weights/
+
+# Replace configuration file
+cp path_to_custom_config.py yolact/data/config.py
 ```
 
 ### Step 4: Running demo
