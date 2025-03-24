@@ -132,12 +132,16 @@ This work builds upon our previous research on obstacle avoidance systems for vi
 
 You can find our previous work referenced below:  
 
-> **Mu, Hongmin and others**, *Dynamic Obstacle Avoidance System Based on Rapid Instance Segmentation Network*, **IEEE Trans. on Intelligent Transportation Systems**, **2024**, **Vol. 25**, **No. 5**, **Pages 4578-4592**, [DOI: 10.1109/TITS.2023.3323210](https://doi.org/10.1109/TITS.2023.3323210).  
+> **Mu, Hongmin and others**, *Dynamic Obstacle Avoidance System Based on Rapid Instance Segmentation Network*, **IEEE Trans. on Intelligent Transportation Systems**, **2024**, **Vol. 25**, **No. 5**, **Pages 4578-4592**, [DOI: 10.1109/TITS.2023.3323210](https://doi.org/10.1109/TITS.2023.3323210).
+
+We thank the authors of YOLACT++ for providing a fast and accurate instance segmentation algorithm, which enables **real-time segmentation** of **passable areas** in our project:
+> **Bolya, Daniel and others**, *YOLACT++ Better Real-Time Instance Segmentation*, **IEEE Trans. on Pattern Analysis and Machine Intelligence**, **2022**, **Vol. 44**, **No. 2**, **Pages 1108-1121**, [DOI: 10.1109/TPAMI.2020.3014297](https://doi.org/10.1109/TPAMI.2020.3014297).
+
 
 ```bibtex
 @ARTICLE{Mu2024Dynamic,
   author={Mu, Hongmin and Zhang, Gang and Ma, Zhe and Zhou, Mengchu and Cao, Zhengcai},
-  journal={IEEE Trans. on Intelligent Transportation Systems}, 
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={Dynamic Obstacle Avoidance System Based on Rapid Instance Segmentation Network}, 
   year={2024},
   volume={25},
@@ -145,5 +149,17 @@ You can find our previous work referenced below:
   pages={4578-4592},
   keywords={Feature extraction;Task analysis;Collision avoidance;Real-time systems;Distance measurement;Cameras;Semantics;Obstacle avoidance;instance segmentation;mobility assistance;indoor navigation},
   doi={10.1109/TITS.2023.3323210}
+}
+
+@ARTICLE{Bolya2022,
+  author={Bolya, Daniel and Zhou, Chong and Xiao, Fanyi and Lee, Yong Jae},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={YOLACT++ Better Real-Time Instance Segmentation}, 
+  year={2022},
+  volume={44},
+  number={2},
+  pages={1108-1121},
+  keywords={Prototypes; Real-time systems; Image segmentation; Object detection; Detectors; Task analysis; Shape; Instance segmentation; real time},
+  doi={10.1109/TPAMI.2020.3014297}
 }
 
