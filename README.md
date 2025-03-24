@@ -31,7 +31,7 @@ This project was highly recognized in two prestigious robotics competitions:
 ![333](https://github.com/user-attachments/assets/1ca68f01-71f6-4268-87a5-5b560f90ba76)
 
 ## **🎥 Video Demonstration**  
-You can download the demo videos here! *(within 25MB each)*.  
+You can download the demo videos *(within 25MB each)* here!
 [Volunteer 1](https://github.com/HongminMu/ZhuMang/blob/main/volunteer1.mp4)  
 [Volunteer 2](https://github.com/HongminMu/ZhuMang/blob/main/volunteer2.mp4)
 
