@@ -73,7 +73,7 @@ cp path_to_zhendong.py yolact/
 
 ### Step 3: Download Pretrained Weights
 Download our custom-trained weights from [this link](https://drive.google.com/file/d/10LK7Iq2vLNiBRs2EWcySygQpdUQFpC_7/view?usp=drive_link) and place them in the `weights` folder.
-Replace the `data/config.py` file with our custom configuration.
+Replace the `data/config.py` file with our custom configuration. Our IMS (Indoor Multi-pedestrian Scenes) dataset is [here]([https://drive.google.com/file/d/10LK7Iq2vLNiBRs2EWcySygQpdUQFpC_7/view?usp=drive_link](https://drive.google.com/file/d/1aZhA9K0UgyDuIo7tS2hIP2w5u2nvM9J5/view?usp=drive_link))
 
 ```bash
 # Move the weights to the correct directory
