@@ -63,11 +63,11 @@ cd external/DCNv2
 python setup.py build develop
 ```
 
-### Step 2: Integrate zhendong.py
-Copy `zhendong.py` to the YOLACT++ root directory.
+### Step 2: Integrate OA_Demo.py
+Copy `OA_Demo.py` to the YOLACT++ root directory.
 
 ```bash
-# Place `zhendong.py` in the root directory
+# Place `OA_Demo.py` in the root directory
 cp path_to_zhendong.py yolact/
 ```
 
@@ -84,11 +84,11 @@ cp path_to_weights.pth weights/
 cp path_to_custom_config.py yolact/data/config.py
 ```
 
-### Step 4: Run zhendong.py
-Run the `zhendong.py` script with the following command:
+### Step 4: Run OA_Demo.py
+Run the `OA_Demo.py` script with the following command:
 
 ```bash
-python zhendong.py \
+python OA_Demo.py \
     --trained_model=weights/yolact_coco_custom_91_16000.pth \
     --config=yolact_coco_custom_config \
     --score_threshold=0.35 \
@@ -98,14 +98,14 @@ python zhendong.py \
 ```
 
 ### Visualization without Vibration Modules
-If you want to visualize the obstacle avoidance process without using vibration modules, use `zhendong_visualization.py`:
+If you want to visualize the obstacle avoidance process without using vibration modules, use `OA_Demo_Visualization.py`:
 
 ```bash
-# Place `zhendong_visualization.py` in the root directory
-cp path_to_zhendong_visualization.py yolact/
+# Place `OA_Demo_Visualization.py` in the root directory
+cp path_to_OA_Demo_Visualization.py yolact/
 
 # Run with the same parameters
-python zhendong_visualization.py \
+python OA_Demo_Visualization.py \
     --trained_model=weights/yolact_coco_custom_91_16000.pth \
     --config=yolact_coco_custom_config \
     --score_threshold=0.35 \
@@ -115,7 +115,7 @@ python zhendong_visualization.py \
 ```
 
 ## Notes
-- To enable obstacle avoidance with vibration modules, purchase two Vibration Modules (LILYGO® T-WATCH 2021) and configure the serial communication according to the comments in `zhendong.py`.
+- To enable obstacle avoidance with vibration modules, purchase two Vibration Modules (LILYGO® T-WATCH 2021) and configure the serial communication according to the comments in `OA_Demo.py`.
 - Make sure to correctly set up the serial communication if using the vibration modules.
 - The visualization script allows you to see how the obstacle avoidance algorithm works without requiring hardware.
 
