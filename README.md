@@ -115,7 +115,7 @@ python zhendong_visualization.py \
 ```
 
 ## Notes
-- To enable obstacle avoidance with vibration modules, purchase two vibration modules and configure the serial communication according to the comments in `zhendong.py`.
+- To enable obstacle avoidance with vibration modules, purchase two Vibration Modules (LILYGO® T-WATCH 2021) and configure the serial communication according to the comments in `zhendong.py`.
 - Make sure to correctly set up the serial communication if using the vibration modules.
 - The visualization script allows you to see how the obstacle avoidance algorithm works without requiring hardware.
 
