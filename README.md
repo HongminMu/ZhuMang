@@ -128,7 +128,7 @@ Our full code will be made publicly available soon! Stay tuned for updates. 🌍
 For inquiries, feel free to reach out via email at **hongmin_@163.com**, specifying the purpose of your request.  
 We can provide hardware specifications and software code. Contributions, discussions, and collaborations are highly welcome!  
 
-## **📚 Related Work**  
+## **💡 Acknowledgments**  
 This work builds upon our previous research on obstacle avoidance systems for visually impaired users. Specifically, we extend our prior work on **dynamic obstacle avoidance** using **instance segmentation** to improve the **navigation experience in indoor environments**.  
 
 You can find our previous work referenced below:  
