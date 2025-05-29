@@ -3,10 +3,6 @@
 ## **🌟 Project Overview**  
 This project, formally titled **"Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes"**, enhances **mobility and independence** for visually impaired individuals by enabling **navigation in unfamiliar indoor environments without relying on dense pre-built maps**.  
 
-Our wearable Device：
-<img alt="overall-3-14" src="https://github.com/user-attachments/assets/895e1327-3764-453e-8bac-00ee4643e31f" />
-The system is built around an NVIDIA Jetson AGX ORIN 64GB housed in a backpack with cooling and power integration. It uses custom binocular glasses and a chest-mounted monocular camera, both connected via USB. The binocular glasses capture wide scene images and depth, while the monocular camera records the ground ahead for obstacle detection. Outputs include two vibration wristbands and bone conduction headphones via Bluetooth. An IMU on the shoulder tracks user movement. More hardware details are in the Supplementary File.
-
 Overview of our navigation system :
 <img alt="Overall1" src="https://github.com/user-attachments/assets/cd839b68-f4b4-4221-a9f7-e5954b2a292d" />
 
@@ -17,6 +13,10 @@ Overview of our navigation system :
 ✅ **Binocular Stereo Vision** – Enhances depth estimation to assist in navigation toward key landmarks.  
 ✅ **AI-Driven Obstacle Detection** – Uses deep learning for real-time scene awareness.  
 ✅ **Multi-Device Wearable Interaction** – Smart glasses process visual data, while wristbands provide haptic feedback.  
+
+Our wearable Device：
+<img alt="overall-3-14" src="https://github.com/user-attachments/assets/895e1327-3764-453e-8bac-00ee4643e31f" />
+The system is built around an NVIDIA Jetson AGX ORIN 64GB housed in a backpack with cooling and power integration. It uses custom binocular glasses and a chest-mounted monocular camera, both connected via USB. The binocular glasses capture wide scene images and depth, while the monocular camera records the ground ahead for obstacle detection. Outputs include two vibration wristbands and bone conduction headphones via Bluetooth. An IMU on the shoulder tracks user movement. More hardware details are in the Supplementary File.
 
 ---
 
