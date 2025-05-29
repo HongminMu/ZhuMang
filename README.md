@@ -15,7 +15,9 @@ Overview of our navigation system :
 ✅ **Multi-Device Wearable Interaction** – Smart glasses process visual data, while wristbands provide haptic feedback.  
 
 Our wearable Device：
+
 <img alt="overall-3-14" src="https://github.com/user-attachments/assets/895e1327-3764-453e-8bac-00ee4643e31f" />
+
 The system is built around an NVIDIA Jetson AGX ORIN 64GB housed in a backpack with cooling and power integration. It uses custom binocular glasses and a chest-mounted monocular camera, both connected via USB. The binocular glasses capture wide scene images and depth, while the monocular camera records the ground ahead for obstacle detection. Outputs include two vibration wristbands and bone conduction headphones via Bluetooth. An IMU on the shoulder tracks user movement. More hardware details are in the Supplementary File.
 
 ---
