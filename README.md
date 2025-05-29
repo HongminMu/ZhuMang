@@ -125,7 +125,7 @@ For more details, please check the code comments or contact us for further suppo
 Our full code will be made publicly available soon! Stay tuned for updates. 🌍💡  
 
 ## **📩 Contact**  
-For inquiries, feel free to reach out via email at **hongmin_@163.com**, specifying the purpose of your request.  
+For inquiries, feel free to reach out via email at **hongmin_mu@163.com**, specifying the purpose of your request.  
 We can provide hardware specifications and software code. Contributions, discussions, and collaborations are highly welcome!  
 
 ## **💡 Acknowledgments**  
