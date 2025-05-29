@@ -3,7 +3,10 @@
 ## **🌟 Project Overview**  
 This project, formally titled **"Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes"**, enhances **mobility and independence** for visually impaired individuals by enabling **navigation in unfamiliar indoor environments without relying on dense pre-built maps**.  
 
-Overview of our device and navigation system :
+Our wearable Device：
+<img alt="caption-3-14" src="https://github.com/user-attachments/assets/614bfbf6-2623-43e8-91e2-f57d0648efa1" />
+
+Overview of our navigation system :
 <img alt="Overall1" src="https://github.com/user-attachments/assets/cd839b68-f4b4-4221-a9f7-e5954b2a292d" />
 
 
