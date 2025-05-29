@@ -4,7 +4,8 @@
 This project, formally titled **"Wearable Visuomotor Navigation and Mobility Assistance Device for the Partially Sighted and Visually Impaired in Unfamiliar Indoor Scenes"**, enhances **mobility and independence** for visually impaired individuals by enabling **navigation in unfamiliar indoor environments without relying on dense pre-built maps**.  
 
 Overview of our device and navigation system :
-![12334](https://github.com/user-attachments/assets/a1a99db3-299d-4ad8-83e5-a10197fc02fd)
+<img width="912" alt="Overall1" src="https://github.com/user-attachments/assets/cd839b68-f4b4-4221-a9f7-e5954b2a292d" />
+
 
 🚀 **Key Features:**  
 ✅ **SLAM-free navigation** – Uses **Topological Semantic Mapping (TSM)** instead of conventional dense mapping.  
