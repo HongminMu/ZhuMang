@@ -14,7 +14,7 @@ Overview of our navigation system :
 ✅ **AI-Driven Obstacle Detection** – Uses deep learning for real-time scene awareness.  
 ✅ **Multi-Device Wearable Interaction** – Smart glasses process visual data, while wristbands provide haptic feedback.  
 
-Our wearable Device：
+## **🔧 Hardware Setup**
 
 <img alt="overall-3-14" src="https://github.com/user-attachments/assets/895e1327-3764-453e-8bac-00ee4643e31f"  width="500" />
 
