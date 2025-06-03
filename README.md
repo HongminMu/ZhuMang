@@ -45,18 +45,15 @@ Scene 1: Hospital
 
 Task: Users wear the device to complete a navigation task from the entrance of the 4th floor of the outpatient building at China-Japan Friendship Hospital to the ophthalmology clinic.
 
-[Volunteer 1](https://github.com/HongminMu/ZhuMang/blob/main/volunteer1.mp4)  
-[Volunteer 2](https://github.com/HongminMu/ZhuMang/blob/main/volunteer2.mp4)
-
 Volunteer 1
 ![image](https://github.com/HongminMu/ZhuMang/assets/57067148/7820972f-91ab-4a45-aa9f-684060dc663b)
 Download Link:
-https://drive.google.com/file/d/1lhCLkn20tWlVO4rFQbTlD_Us0wIwh0Fr/view?usp=sharing
+https://drive.google.com/file/d/1lhCLkn20tWlVO4rFQbTlD_Us0wIwh0Fr/view?usp=sharing or [Volunteer 1](https://github.com/HongminMu/ZhuMang/blob/main/volunteer1.mp4) 
 
 Volunteer 2
-![image](https://github.com/user-attachments/assets/9a6beec2-f583-49e0-ba18-19e6ffacf9b7)
+![image](https://github.com/user-attachments/assets/9a6beec2-f583-49e0-ba18-19e6ffacf9b7) 
 Download Link:
-https://drive.google.com/file/d/1s0oCoElj_lf9LeiDjiDQp0BsfxLNChWz/view?usp=sharing
+https://drive.google.com/file/d/1s0oCoElj_lf9LeiDjiDQp0BsfxLNChWz/view?usp=sharing or [Volunteer 2](https://github.com/HongminMu/ZhuMang/blob/main/volunteer2.mp4)
 
 
 Scene 2: Subway
