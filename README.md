@@ -41,6 +41,8 @@ This project was highly recognized in two prestigious robotics competitions:
 ## **🎥 Video Demonstration**  
 You can download the demo videos *(within 25MB each)* here!
 
+Scene 1: Hospital
+Task: Users wear the device to complete a navigation task from the entrance of the 4th floor of the outpatient building at China-Japan Friendship Hospital to the ophthalmology clinic.
 [Volunteer 1](https://github.com/HongminMu/ZhuMang/blob/main/volunteer1.mp4)  
 [Volunteer 2](https://github.com/HongminMu/ZhuMang/blob/main/volunteer2.mp4)
 
@@ -49,6 +51,12 @@ Volunteer 1
 
 Volunteer 2
 ![image](https://github.com/user-attachments/assets/9a6beec2-f583-49e0-ba18-19e6ffacf9b7)
+
+Scene 2: Subway
+Task: Users, equipped with the device, perform a navigation task involving a transfer from Line 5 at Huixinxijie Nankou Station to Line 10 in the direction of Anzhenqiao on the Beijing Subway.
+
+Scene 3: Shopping Mall
+Task: Users, equipped with the device, perform a navigation task from the subway entrance of Beijing Huan Yu Hui Mall to a mobile phone flagship store on the mall's second floor.
 
 ## **🚀 Code Release**  
 ✅Code for Obstacle Avoidance.
